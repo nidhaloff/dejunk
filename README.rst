@@ -16,8 +16,18 @@ dejunk
 
 
 
-block any junk and improve your browsing experience
+block any junk (including ads, spams websites etc..) and improve your browsing experience
 
 
 * Free software: GNU General Public License v3
 * Documentation: https://dejunk.readthedocs.io.
+
+
+Usage
+======
+
+``python
+
+pip install -U dejunk
+
+```

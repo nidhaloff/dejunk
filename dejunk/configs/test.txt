@@ -1,10 +1,5 @@
-# Ads
-0.0.0.0 api.opencandy.com
-0.0.0.0 api.recommendedsw.com
-0.0.0.0 cdn.appround.biz
 0.0.0.0 cdn.bigspeedpro.com
-
-# second
 0.0.0.0 cdn.bispd.com
 0.0.0.0 cdn.bisrv.com
-0.0.0.0 cdn.cdndp.com
+0.0.0.0 nidhaloff.com
+0.0.0.0 zebi.com
